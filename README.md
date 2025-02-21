@@ -1,7 +1,11 @@
 # QtFindApi
 gui图形化界面，集成多个工具正则发现js中的接口，通过无头浏览器渲染进行深度扫描，异步多线程目录发现，开发中bug请见谅……
 
+因追求深度爬取，使用了浏览器驱动加载网站页面，因驱动过大，暂未上传至github，请自行网盘下载，放置于工具根目录下。
+edgedriver_mac64
+edgedriver_arm64
 
+https://share.feijipan.com/s/2SF7bDVw
 
 
 【样例展示】
