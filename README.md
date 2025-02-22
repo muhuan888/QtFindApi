@@ -4,6 +4,7 @@ gui图形化界面，集成多个工具正则发现js中的接口，通过无头
 因追求深度爬取，使用了浏览器驱动加载网站页面，因驱动过大，暂未上传至github，请自行网盘下载，放置于工具根目录下。
 edgedriver_mac64
 【https://share.feijipan.com/s/RpF7pvDz】
+
 edgedriver_arm64
 【https://share.feijipan.com/s/nDF7pcfj】
 
